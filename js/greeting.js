@@ -9,9 +9,9 @@ const name = ' Savario';
 const gree1 = 'Go to Sleep!  ';
 const gree2 = 'Good morning!  ';
 const gree3 = 'Good afternoon  ';
-const gree4 = 'Good evening,  ';
-const gree5 = 'Good evening,  ';
-const gree6 = 'Good evening,  ';
+const gree4 = 'Good Napoli,  ';
+const gree5 = 'Good Napoli,  ';
+const gree6 = 'Good Napoli,  ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
