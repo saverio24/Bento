@@ -23,7 +23,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-   --imgbg: url(https://bit.ly/3hdR601); 
+   --imgbg: url(https://bit.ly/3hdR601) style="vertical-align:middle">; 
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
